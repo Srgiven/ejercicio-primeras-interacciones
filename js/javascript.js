@@ -19,7 +19,7 @@ function recogeDatos(evento) {
   if (edad > 30) {
     mensajeFormulario = " y te llaman maduro";
   }  else if (edad < 30) {
-    mensajeFormulario = " ya queda menos";
+    mensajeFormulario = " ¡Que jovialidad!";
   } else {
     mensajeFormulario = " ¡Trapella!"; 
   }
