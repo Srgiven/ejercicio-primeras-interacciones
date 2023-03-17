@@ -17,7 +17,7 @@ function recogeDatos(evento) {
   // función de la edad
 
   if (edad > 30) {
-    mensajeFormulario = ", estas mayorzote";
+    mensajeFormulario = ", estás mayorzote";
   }  else if (edad < 30) {
     mensajeFormulario = " ¡Que jovialidad!";
   } else {
