@@ -42,7 +42,7 @@ function recogeDatos(evento) {
   // en la variable que hayas preparado
 
   mensaje = 
-    "<p> Hola, " +
+    "<p> Hola " +
     nombre +
     ", tienes " +
     edad +
